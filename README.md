@@ -6,7 +6,7 @@ Welcome to the **World Population Visualization Project**! This project showcase
 
 1. 🌎 **Population Growth by Continent (2022)**  
    This bar chart illustrates the population distribution by continent for the year 2022. Unsurprisingly, Asia boasts the largest population, while Oceania shows the smallest.
-  <img src=https://github.com/DhanrajGangnaik/World_Popultion/blob/master/3d%20bar%20plot.png/>
+  <img src=https://github.com/DhanrajGangnaik/World_Popultion/blob/master/worldpopulation%20by%20continent%20in%202022.png/>
 
 2. 📊 **Population Growth Over Decades (Top 10 Countries)**  
    This line chart tracks the population growth of the top 10 most populous countries from 1970 to 2022. Countries like China and India show significant growth trends over the years.
